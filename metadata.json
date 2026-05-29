@@ -1,0 +1,6 @@
+{
+  "name": "VTeme",
+  "description": "Электронная читалка книг и плеер аудиокниг по главам с бэкапом библиотеки и редактором метаданных/обложек.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
